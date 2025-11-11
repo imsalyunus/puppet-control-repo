@@ -4,5 +4,6 @@
   "author": "imsalyunus",
   "summary": "Oracle tasks and plans module",
   "license": "Apache-2.0",
-  "source": "https://github.com/imsalyunus/puppet-control-repo"
+  "source": "https://github.com/imsalyunus/puppet-control-repo",
+  "dependencies": []
 }
